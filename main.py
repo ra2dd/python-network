@@ -13,4 +13,8 @@ if __name__ == "__main__":
     '''
 
     # Calculate dot product using classes
-    layer.network1()
+    # layer.network1()
+    layer.network2()
+
+    # Print softmax activation in batch
+    # activation.softmax_batch()
