@@ -1,6 +1,7 @@
 import functions.dot_product as dot_product
 import functions.batch as batch
 import functions.layer as layer
+import functions.activation as activation
 
 if __name__ == "__main__":
     # Calculate a simple dot product
